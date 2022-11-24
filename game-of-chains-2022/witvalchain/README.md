@@ -8,10 +8,10 @@ Contents
 ## Status
 
 * Timeline
-  * 2022-11-27: Spawn time: `2022-11-27T15:00:00.000000Z`
+  * 2022-11-27: Spawn time: `2022-11-28T14:00:00.000000Z`
   * 2022-11-25: Proposal 8 voting period ends
   * 2022-11-24: Proposal 8 goes into voting period
-  * 2022-11-22: Genesis file without CCV state is generated
+  * 2022-11-24: Genesis file without CCV state is generated
 
 witval will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
 
@@ -35,7 +35,7 @@ Binary checksums can differ based on many things to include go, libc, and make v
 
   * [Linux amd64 build](witvalchain)
   * Version: `v0.1.0`
-  * SHA256: `452c80a1982fba815450db1de2b02471db3756e59a1ce57a0f30a7ecf3f26364`
+  * SHA256: `61adf7eee62919db3f64cf1808f0ad4995322c0f70f7ed8ad594ad4b23ae4c64`
 
 ### Genesis file
 
@@ -51,7 +51,7 @@ The genesis file with was generated using the following settings:
 * Denom: `uwit`
 * Signed blocks window: `"8640"`
 * Genesis accounts were added to provide funds for a faucet and a relayer that will be run by the testnet coordinators.
-* Genesis file **without CCV state**: [`witvalchain-fresh-genesis.json`](witvalchain-fresh-genesis.json), SHA256: `1b3d707cfb1a13855ca967280f0179b485c24e4b43e672bcb8be134c77ec986a`
+* Genesis file **without CCV state**: [`witvalchain-fresh-genesis.json`](witvalchain-fresh-genesis.json), SHA256: `670770e560c91d13355893422b767b09e3e0575cea7f20a19b305cde30319b9b`
   * **This is provided only for verification, this is not the genesis file validators should be running their nodes with.**
 
 ## Endpoints

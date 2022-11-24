@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2022-11-24T05:57:25.016565333Z",
+  "genesis_time": "2022-11-28T13:00:00.000000Z",
   "chain_id": "witval-1",
   "initial_height": "1",
   "consensus_params": {
@@ -33,14 +33,14 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "witval1ph5dtck7djqv0jt7up46z3xnct4yjj7fctp7sd",
+          "address": "witval19cnlrgr6wxhetnpyhrzuk70m0axa2zxxys4rz8",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "witval1d0lgr8lj2x9jsfevlf5xdys3xrae0fyg098ev8",
+          "address": "witval173rta4w4e92t7ds0t4a9rx2dy5kcduk3xz94lw",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -57,20 +57,20 @@
       },
       "balances": [
         {
-          "address": "witval1ph5dtck7djqv0jt7up46z3xnct4yjj7fctp7sd",
+          "address": "witval19cnlrgr6wxhetnpyhrzuk70m0axa2zxxys4rz8",
           "coins": [
             {
               "denom": "uwit",
-              "amount": "1000000000000"
+              "amount": "10000000000000"
             }
           ]
         },
         {
-          "address": "witval1d0lgr8lj2x9jsfevlf5xdys3xrae0fyg098ev8",
+          "address": "witval173rta4w4e92t7ds0t4a9rx2dy5kcduk3xz94lw",
           "coins": [
             {
               "denom": "uwit",
-              "amount": "1000000000000"
+              "amount": "10000000000000"
             }
           ]
         }
@@ -155,7 +155,7 @@
     "params": null,
     "slashing": {
       "params": {
-        "signed_blocks_window": "100",
+        "signed_blocks_window": "8640",
         "min_signed_per_window": "0.500000000000000000",
         "downtime_jail_duration": "600s",
         "slash_fraction_double_sign": "0.050000000000000000",
