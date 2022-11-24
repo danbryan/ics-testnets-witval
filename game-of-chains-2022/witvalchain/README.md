@@ -8,7 +8,7 @@ Contents
 ## Status
 
 * Timeline
-  * 2022-11-27: Spawn time: `2022-11-28T14:00:00.000000Z`
+  * 2022-11-28: Spawn time: `2022-11-28T14:00:00.000000Z`
   * 2022-11-25: Proposal 8 voting period ends
   * 2022-11-24: Proposal 8 goes into voting period
   * 2022-11-24: Genesis file without CCV state is generated
