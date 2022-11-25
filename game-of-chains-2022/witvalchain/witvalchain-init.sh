@@ -32,7 +32,7 @@ echo "Installing witvalchain..."
 echo "Installing build-essential..."
 sudo apt install build-essential -y
 rm -rf witvalchain
-git clone https://github.com/vitwit/witval-chain/witval.git
+git clone https://github.com/vitwit/witvalchain.git
 cd witvalchain
 git checkout v0.1.0
 make install
