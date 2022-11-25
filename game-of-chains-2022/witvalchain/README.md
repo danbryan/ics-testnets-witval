@@ -8,10 +8,10 @@ Contents
 ## Status
 
 * Timeline
-  * 2022-11-28: Spawn time: `2022-11-28T14:00:00.000000Z`
-  * 2022-11-25: Proposal 8 voting period ends
-  * 2022-11-24: Proposal 8 goes into voting period
-  * 2022-11-24: Genesis file without CCV state is generated
+  * 2022-11-28: Spawn time: `2022-11-29T14:00:00.000000Z`
+  * 2022-11-26: Proposal 11 voting period ends
+  * 2022-11-25: Proposal 11 goes into voting period
+  * 2022-11-25: Genesis file without CCV state is generated
 
 witval will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
 
@@ -35,7 +35,7 @@ Binary checksums can differ based on many things to include go, libc, and make v
 
   * [Linux amd64 build](witvalchain)
   * Version: `v0.1.0`
-  * SHA256: `61adf7eee62919db3f64cf1808f0ad4995322c0f70f7ed8ad594ad4b23ae4c64`
+  * SHA256: `7f23ae20857194a9765c22d20b04ae08a6ae6666cd7ca2dc972275f95b930121`
 
 ### Genesis file
 
@@ -56,8 +56,8 @@ The genesis file with was generated using the following settings:
 
 ## Endpoints
 
+* **p2p seeds : `Pending`**
 * **p2p persistent peers : `Pending`**
-* These peers represent the `witval` validator. We are accepting `250` inbound peeers, but please consider sharing your peers in discord, or create a PR to [`peers.txt`](peers.txt)
 
 * Please keep in mind that any validator that does not come online after 67% of the voting power is up and running, is likely to be slashed for downtime, potentially resulting in being jailed (the `signed_blocks_window` parameter is set to `8640`).
 
