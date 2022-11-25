@@ -6,7 +6,7 @@
 		"revision_height": 1,
 		"revision_number": 1
 	},
-	"genesis_hash": "670770e560c91d13355893422b767b09e3e0575cea7f20a19b305cde30319b9b",
+	"genesis_hash": "7f23ae20857194a9765c22d20b04ae08a6ae6666cd7ca2dc972275f95b930121",
 	"binary_hash": "61adf7eee62919db3f64cf1808f0ad4995322c0f70f7ed8ad594ad4b23ae4c64",
 	"spawn_time": "2022-11-29T14:00:00.000000Z",
 	"deposit": "1uprov"

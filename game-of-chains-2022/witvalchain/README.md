@@ -35,7 +35,7 @@ Binary checksums can differ based on many things to include go, libc, and make v
 
   * [Linux amd64 build](witvalchain)
   * Version: `v0.1.0`
-  * SHA256: `7f23ae20857194a9765c22d20b04ae08a6ae6666cd7ca2dc972275f95b930121`
+  * SHA256: `61adf7eee62919db3f64cf1808f0ad4995322c0f70f7ed8ad594ad4b23ae4c64`
 
 ### Genesis file
 
@@ -51,7 +51,7 @@ The genesis file with was generated using the following settings:
 * Denom: `uwit`
 * Signed blocks window: `"8640"`
 * Genesis accounts were added to provide funds for a faucet and a relayer that will be run by the testnet coordinators.
-* Genesis file **without CCV state**: [`witvalchain-fresh-genesis.json`](witvalchain-fresh-genesis.json), SHA256: `670770e560c91d13355893422b767b09e3e0575cea7f20a19b305cde30319b9b`
+* Genesis file **without CCV state**: [`witvalchain-fresh-genesis.json`](witvalchain-fresh-genesis.json), SHA256: `7f23ae20857194a9765c22d20b04ae08a6ae6666cd7ca2dc972275f95b930121`
   * **This is provided only for verification, this is not the genesis file validators should be running their nodes with.**
 
 ## Endpoints
