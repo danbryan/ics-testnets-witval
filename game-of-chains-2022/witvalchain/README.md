@@ -47,11 +47,11 @@ Final genesis file **with CCV state**: **`pending spawn time`**
 
 The genesis file with was generated using the following settings:
 
-* Chain ID: `witval-1`
+* Chain ID: `witvalchain`
 * Denom: `uwit`
 * Signed blocks window: `"8640"`
 * Genesis accounts were added to provide funds for a faucet and a relayer that will be run by the testnet coordinators.
-* Genesis file **without CCV state**: [`witvalchain-fresh-genesis.json`](witvalchain-fresh-genesis.json), SHA256: `7f23ae20857194a9765c22d20b04ae08a6ae6666cd7ca2dc972275f95b930121`
+* Genesis file **without CCV state**: [`witvalchain-fresh-genesis.json`](witvalchain-fresh-genesis.json), SHA256: `ba4a57b8f3e958a8c108d7f3e2180deb520dacea1d98880a61ce550490e353b1`
   * **This is provided only for verification, this is not the genesis file validators should be running their nodes with.**
 
 ## Endpoints

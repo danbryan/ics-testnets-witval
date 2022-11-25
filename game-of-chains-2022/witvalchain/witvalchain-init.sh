@@ -11,7 +11,7 @@ NODE_MONIKER=witvalchain
 
 # CHAIN_BINARY_URL='https://github.com/vitwit/ics-testnets/raw/main/game-of-chains-2022/witvalchain'
 CHAIN_BINARY='witvalchain'
-CHAIN_ID=witval-1
+CHAIN_ID=witvalchain
 PERSISTENT_PEERS=""
 
 # Install go 1.19.2

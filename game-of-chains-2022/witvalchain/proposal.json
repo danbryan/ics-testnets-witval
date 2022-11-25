@@ -1,12 +1,12 @@
 {
 	"title": "Create the witvalchain chain",
-	"description": "This is the proposal to create the consumer chain \"witval-1\". Visit https://github.com/vitwit/ics-testnets/tree/main/game-of-chains-2022/witvalchain for details on this proposal's data and how to join the chain.",
-	"chain_id": "witval-1",
+	"description": "This is the proposal to create the consumer chain \"witvalchain\". Visit https://github.com/vitwit/ics-testnets/tree/main/game-of-chains-2022/witvalchain for details on this proposal's data and how to join the chain.",
+	"chain_id": "witvalchain",
 	"initial_height": {
 		"revision_height": 1,
 		"revision_number": 1
 	},
-	"genesis_hash": "7f23ae20857194a9765c22d20b04ae08a6ae6666cd7ca2dc972275f95b930121",
+	"genesis_hash": "ba4a57b8f3e958a8c108d7f3e2180deb520dacea1d98880a61ce550490e353b1",
 	"binary_hash": "61adf7eee62919db3f64cf1808f0ad4995322c0f70f7ed8ad594ad4b23ae4c64",
 	"spawn_time": "2022-11-29T14:00:00.000000Z",
 	"deposit": "1uprov"
