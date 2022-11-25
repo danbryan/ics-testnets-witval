@@ -9,8 +9,8 @@ Contents
 
 * Timeline
   * 2022-11-28: Spawn time: `2022-11-29T14:00:00.000000Z`
-  * 2022-11-26: Proposal 11 voting period ends
-  * 2022-11-25: Proposal 11 goes into voting period
+  * 2022-11-26: Proposal 14 voting period ends
+  * 2022-11-25: Proposal 14 goes into voting period
   * 2022-11-25: Genesis file without CCV state is generated
 
 witval will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
